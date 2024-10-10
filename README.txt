@@ -1,3 +1,5 @@
+A PowerShell automation script that creates a user-specified number of randomly sized NTFS partitions (for classroom instruction).
+
 • ALWAYS run this script as 'Administrator'
 
 • Once running, the script will prompt you for the Physical Disk Number that you want to use (WARNING: This script WILL completely format the selected disk), and then it will ask for your preferred number of partitions (CAUTION: 100-128 partitions may cause some issues, but I can continue working on that if needed)
